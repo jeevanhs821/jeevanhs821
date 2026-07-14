@@ -18,7 +18,7 @@ Currently, I am strengthening my skills in Data Structures & Algorithms, modern 
 - 🎓 Final-year Information Science and Engineering student
 - ✉️ Contact me at **jeevanhs821@gmail.com**
 - 🧠 Currently learning Full-Stack Development and Data Structures & Algorithms
-- 👥 Open to collaborating on web development and open-source projects
+- 👥 Open to collaborate on web development and open-source projects
 - 💬 Ask me about JavaScript, Python, React.js, and web development
 - ⚡ Fun fact: I enjoy turning ideas into real-world applications
 
@@ -26,25 +26,25 @@ Currently, I am strengthening my skills in Data Structures & Algorithms, modern 
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript" />
 </p>
 
-### Frontend Development
+### Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
-### Backend Development
+### Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -52,19 +52,29 @@ Currently, I am strengthening my skills in Data Structures & Algorithms, modern 
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Website
 
-An online shopping platform built using HTML, CSS, and JavaScript with responsive design and modern UI.
+An online shopping platform built using HTML, CSS, and JavaScript with a responsive design and modern UI.
+
+🔗 Repository: https://github.com/jeevanhs821/ecommerce-site
+
+---
 
 ### 🌐 Portfolio Website
 
 A personal portfolio website showcasing my skills, projects, achievements, and technical journey.
 
+🔗 Repository: https://github.com/jeevanhs821/jeevanhs821
+
+---
+
 ### 🎮 Space Escape Runner
 
-A browser-based game developed using HTML, CSS, and JavaScript, featuring interactive gameplay and dynamic animations.
+A browser-based game developed using HTML, CSS, and JavaScript, featuring interactive gameplay and animations.
+
+🔗 Repository: https://github.com/jeevanhs821/Space-Escape-Runner
 
 ---
 
@@ -78,6 +88,27 @@ A browser-based game developed using HTML, CSS, and JavaScript, featuring intera
 - MongoDB
 - Data Structures & Algorithms
 - Git & GitHub
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jeevanhs821/jeevanhs821/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jeevanhs821/jeevanhs821/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/jeevanhs821/jeevanhs821/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
@@ -105,12 +136,22 @@ A browser-based game developed using HTML, CSS, and JavaScript, featuring intera
   <a href="https://www.linkedin.com/in/jeevan-h-s/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
+  <a href="https://x.com/JeevanHS360820">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" width="48" />
+  </a>
 </p>
 
 - 🔗 GitHub: https://github.com/jeevanhs821
 - 🔗 LinkedIn: https://www.linkedin.com/in/jeevan-h-s/
 - 🔗 X (Twitter): https://x.com/JeevanHS360820
 - 🔗 Threads: https://www.threads.net/@jeevanhs821
+
+---
+
+## 📊 Profile Views
+
+![](https://komarev.com/ghpvc/?username=jeevanhs821&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 

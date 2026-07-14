@@ -1,27 +1,117 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jeevan H S
-===================================================================================================================================
+# Hi 👋, I'm Jeevan H S
 
-Future Software Engineer | Web Development Enthusiast | Lifelong Learner
-------------------------------------------------------------------------
+## Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast 🚀
 
-Hello! I'm Jeevan H S, an Information Science and Engineering student with a strong interest in web development and software engineering. I am currently learning modern technologies such as JavaScript, Python, React.js, Node.js, Express.js, and MongoDB through hands-on projects and continuous practice.
+Hello! I'm Jeevan H S, a final-year Information Science and Engineering student passionate about full-stack development, software engineering, and building scalable web applications.
 
-I enjoy building responsive websites, exploring new technologies, and improving my problem-solving skills. My goal is to become a skilled full-stack developer and contribute to impactful projects that solve real-world problems.
+I work with technologies such as JavaScript, Python, React.js, Node.js, Express.js, and MongoDB, and I enjoy creating responsive websites and solving real-world problems through code.
 
-Currently, I am expanding my knowledge in data structures and algorithms while working on web development projects. I am always excited to collaborate, learn from the developer community, and grow as a software engineer.
+Currently, I am strengthening my skills in Data Structures & Algorithms, modern web technologies, and open-source development. I am always eager to learn, collaborate, and contribute to innovative projects.
 
-Outside of coding, I enjoy taking on coding challenges and transforming ideas into practical applications. 🚀
+🚀 Passionate about coding, continuous learning, and transforming ideas into impactful applications.
 
-* 🌍  I'm based in Davangere, Karnataka, India
-* ✉️  You can contact me at [jeevanhs821@gmail.com](mailto:jeevanhs821@gmail.com)
-* 🧠  I'm currently learning JavaScript, Python, React.js, Node.js, Express.js, MongoDB, and Data Structures & Algorithms
-* 👥  I'm looking to collaborate on Web development, open-source, and beginner-friendly projects
-* 💬  Ask me about I enjoy solving coding challenges, learning new technologies, and turning ideas into real-world applications. 🚀
+---
+
+## 🌍 About Me
+
+- 🌍 Based in Karnataka, India
+- 🎓 Final-year Information Science and Engineering student
+- ✉️ Contact me at **jeevanhs821@gmail.com**
+- 🧠 Currently learning Full-Stack Development and Data Structures & Algorithms
+- 👥 Open to collaborating on web development and open-source projects
+- 💬 Ask me about JavaScript, Python, React.js, and web development
+- ⚡ Fun fact: I enjoy turning ideas into real-world applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
+  <img src="https://skillicons.dev/icons?i=python,javascript" />
 </p>
 
-### Socials
+### Frontend Development
 
-<p align="left"> <a href="https://www.github.com/jeevanhs821" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/JeevanHS360820" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@jeevanhs821" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/jeevan-h-s/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+### Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🛒 E-Commerce Website
+
+An online shopping platform built using HTML, CSS, and JavaScript with responsive design and modern UI.
+
+### 🌐 Portfolio Website
+
+A personal portfolio website showcasing my skills, projects, achievements, and technical journey.
+
+### 🎮 Space Escape Runner
+
+A browser-based game developed using HTML, CSS, and JavaScript, featuring interactive gameplay and dynamic animations.
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript (ES6+)
+- Python
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Data Structures & Algorithms
+- Git & GitHub
+
+---
+
+## 📈 Coding Profiles
+
+<p align="left">
+  <a href="https://github.com/jeevanhs821">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/jeevan-h-s/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/jeevanhs821">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/jeevan-h-s/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+- 🔗 GitHub: https://github.com/jeevanhs821
+- 🔗 LinkedIn: https://www.linkedin.com/in/jeevan-h-s/
+- 🔗 X (Twitter): https://x.com/JeevanHS360820
+- 🔗 Threads: https://www.threads.net/@jeevanhs821
+
+---
+
+### 🚀 "Turning ideas into impactful applications through code."

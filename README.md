@@ -112,7 +112,7 @@ A browser-based game developed using HTML, CSS, and JavaScript, featuring intera
 
 ---
 
-## 📊 Coding Profiles
+## 📊 Coding & Learning Profiles
 
 <p align="left">
 
@@ -126,13 +126,12 @@ A browser-based game developed using HTML, CSS, and JavaScript, featuring intera
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- CCBP -->
+  <!-- CCBP Learning Progress -->
   <a href="https://learning.ccbp.in/progress/public?uid=e5667e9c-d7da-4309-a7ad-662a20900a7c">
     <img src="https://img.shields.io/badge/CCBP-Learning%20Progress-blue?style=for-the-badge" />
   </a>
 
 </p>
-
 ---
 
 ## 🌐 Connect With Me

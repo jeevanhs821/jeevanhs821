@@ -112,16 +112,25 @@ A browser-based game developed using HTML, CSS, and JavaScript, featuring intera
 
 ---
 
-## 📈 Coding Profiles
+## 📊 Coding Profiles
 
 <p align="left">
+
+  <!-- GitHub -->
   <a href="https://github.com/jeevanhs821">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jeevan-h-s/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <!-- CCBP -->
+  <a href="https://learning.ccbp.in/progress/public?uid=e5667e9c-d7da-4309-a7ad-662a20900a7c">
+    <img src="https://img.shields.io/badge/CCBP-Learning%20Progress-blue?style=for-the-badge" />
+  </a>
+
 </p>
 
 ---

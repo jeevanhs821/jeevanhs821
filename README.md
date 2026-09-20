@@ -180,23 +180,11 @@ Interactive browser-based space game.
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jeevanhs821&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanhs821&hide_border=true&theme=transparent" height="180"/>
-
-</div>
-
----
-
 # 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanhs821&bg_color=ffffff00&color=36BCF7&line=36BCF7&point=1F6FEB&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanhs821&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 

@@ -283,25 +283,13 @@ My personal portfolio showcases my skills, projects, learning journey and develo
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeevanhs821&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanhs821&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanhs821&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
+</div>
 ---
 
-# 📈 GitHub Contributions
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jeevanhs821&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" width="90%"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 

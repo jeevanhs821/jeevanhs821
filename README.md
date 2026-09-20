@@ -1,34 +1,26 @@
 <div align="center">
 
-<!-- ==================== PROFESSIONAL HEADER ==================== -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Jeevan%20H%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-<br>
-
-<!-- ==================== TYPING ANIMATION ==================== -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Developer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+Python+Developer;React.js+%7C+Node.js+Developer;Building+Real-World+Applications;Learning+%7C+Building+%7C+Improving" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+here+%F0%9F%9A%80;Software+Developer;Full-Stack+Developer;JavaScript+%7C+Python+Developer;React.js+%7C+Node.js+Developer;Learning+%7C+Building+%7C+Improving" alt="Typing Animation"/>
 
 <br><br>
 
-<!-- ==================== PROFILE CONNECTION BADGES ==================== -->
-
 <a href="https://github.com/jeevanhs821">
-<img src="https://img.shields.io/github/followers/jeevanhs821?label=Followers&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://github.com/jeevanhs821">
-<img src="https://img.shields.io/github/stars/jeevanhs821?label=Stars&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/jeevan-h-s/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:jeevanhs821@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=jeevanhs821&label=Profile%20Views&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=jeevanhs821&label=PROFILE%20VIEWS&style=for-the-badge"/>
 
 </div>
 
@@ -42,97 +34,120 @@
 
 </div>
 
-I'm a final-year **Information Science & Engineering student** from Karnataka, India, passionate about software development, full-stack development, problem solving, and building practical real-world applications.
+I'm a final-year **Information Science & Engineering student** from Karnataka, India, passionate about software development, full-stack development, problem solving, AI and computer vision.
+
+I enjoy building practical applications and continuously improving my technical skills through real-world projects.
 
 ---
 
-# 🚀 About Me
+# 🖥️ SYSTEM.INFO
 
-- 💻 Aspiring Software Developer
-- 🌐 Full-Stack Web Development enthusiast
-- 🧠 Learning Data Structures & Algorithms
-- ⚛️ Building applications with React.js
-- 🟢 Learning Node.js and Express.js
-- 🍃 Working with MongoDB
-- 🔐 Learning authentication and authorization
-- 🌍 Learning REST API development
-- 🤖 Interested in AI and Computer Vision
-- 🔧 Passionate about solving real-world problems
-- 🚀 Building projects to become industry-ready
-- 🤝 Interested in collaboration and open-source development
-- 📚 Continuously learning new technologies
+<div align="center">
 
-> **Build • Learn • Improve • Repeat 🚀**
+<pre>
+╭──────────────────────────────────────────────────────────────────────╮
+│                          SYSTEM.INFO                                 │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  Subject        : Jeevan H S                                        │
+│  Role           : Software Developer                                │
+│  Focus          : Full-Stack Development                            │
+│  Origin         : Karnataka, India                                  │
+│  Education      : Information Science & Engineering                 │
+│  Status         : Building + Learning                               │
+│                                                                      │
+│  Core.Language  : JavaScript | Python                               │
+│  Core.Frontend  : React.js | HTML | CSS                             │
+│  Core.Backend   : Node.js | Express.js                              │
+│  Core.Database  : MongoDB                                           │
+│  Core.API       : REST APIs                                         │
+│  Core.AI        : OpenCV | MediaPipe | TensorFlow                   │
+│  Core.Tools     : Git | GitHub | VS Code | npm                      │
+│                                                                      │
+│                       ● ALL SYSTEMS NOMINAL                         │
+╰──────────────────────────────────────────────────────────────────────╯
+</pre>
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# 👨‍💻 ABOUT.ME
+
+<div align="center">
+
+<pre>
+> whoami
+
+Software Developer in progress.
+
+> interests
+
+[+] Full-Stack Development
+[+] Web Applications
+[+] JavaScript
+[+] Python
+[+] React.js
+[+] Node.js
+[+] Express.js
+[+] MongoDB
+[+] REST APIs
+[+] Data Structures & Algorithms
+[+] Artificial Intelligence
+[+] Computer Vision
+
+> current_status
+
+BUILDING  ████████████████████░░░░  85%
+LEARNING  █████████████████████░░░  90%
+CODING    ███████████████████░░░░░  80%
+</pre>
+
+</div>
+
+---
+
+# 🛠️ TOOLCHAIN
 
 ## 💻 Programming Languages
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-
 </p>
-
----
 
 ## 🎨 Frontend Development
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
 </p>
-
----
 
 ## ⚙️ Backend Development
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
 </p>
 
----
-
-## 🗄️ Database
+## 🗄️ Database & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,npm" />
 </p>
-
----
-
-## 🔧 Tools & Platforms
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-
-</p>
-
----
 
 ## 🤖 AI & Computer Vision
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<p align="center">
+
+`MediaPipe` `Flask` `NumPy` `Pandas`
 
 </p>
 
-### Also working with:
-
-`OpenCV` `MediaPipe` `Flask` `NumPy` `Pandas`
-
 ---
 
-# 🚀 Featured Projects
+# 🚀 PROJECTS
 
 <table>
 <tr>
@@ -143,7 +158,7 @@ I'm a final-year **Information Science & Engineering student** from Karnataka, I
 
 Industry-style full-stack HR management application.
 
-### Features
+<h3>Features</h3>
 
 - 👥 Employee Management
 - 🏢 Department Management
@@ -155,45 +170,36 @@ Industry-style full-stack HR management application.
 - 🔑 JWT Authentication
 - 🌐 REST APIs
 
-### Tech Stack
+<h3>Tech Stack</h3>
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
 
-<br>
-
-🔗 **Repository:** Coming Soon
+<p><b>Status:</b> 🚧 Building</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h2>🛒 E-Commerce Website</h2>
+<h2>🤖 AirScript AI</h2>
 
-Responsive e-commerce website created to practice modern web development.
+<h3>Real-Time Air Writing Recognition System</h3>
 
-### Features
+AI and computer-vision based project that recognizes characters written in the air using a webcam.
 
-- 🛍️ Product interface
-- 📱 Responsive design
-- 🎨 Modern UI
-- ⚡ JavaScript interactions
-- 🌐 Web development
+<h3>Features</h3>
 
-### Tech Stack
+- ✋ Fingertip tracking
+- 📷 Computer vision
+- 🧠 Character recognition
+- 🖥️ Touchless interaction
+- 🤖 AI-based recognition
+- ⚡ Real-time processing
 
-`HTML` `CSS` `JavaScript`
+<h3>Tech Stack</h3>
 
-<br>
+`Python` `OpenCV` `MediaPipe` `TensorFlow/Keras` `Flask`
 
-<p align="center">
-
-<a href="https://github.com/jeevanhs821/ecommerce-site">
-
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</p>
+<p><b>Status:</b> 🚧 Development</p>
 
 </td>
 
@@ -203,34 +209,11 @@ Responsive e-commerce website created to practice modern web development.
 
 <td width="50%" valign="top">
 
-<h2>🤖 AirScript AI</h2>
-
-### Real-Time Air Writing Recognition System
-
-AI and computer-vision based project that recognizes characters written in the air using a webcam.
-
-### Features
-
-- ✋ Fingertip tracking
-- 📷 Computer vision
-- 🧠 Character recognition
-- 🖥️ Touchless interaction
-- 🤖 AI-based recognition
-- 🎯 Real-time interaction
-
-### Tech Stack
-
-`Python` `OpenCV` `MediaPipe` `TensorFlow/Keras` `Flask`
-
-</td>
-
-<td width="50%" valign="top">
-
 <h2>🎮 Space Escape Runner</h2>
 
 Interactive browser-based space game.
 
-### Features
+<h3>Features</h3>
 
 - 🚀 Space gameplay
 - 🎮 Interactive controls
@@ -238,21 +221,41 @@ Interactive browser-based space game.
 - 💥 Game interactions
 - 🌐 Browser based
 
-### Tech Stack
+<h3>Tech Stack</h3>
 
 `HTML` `CSS` `JavaScript`
 
 <br>
 
-<p align="center">
-
 <a href="https://github.com/jeevanhs821/Space-Escape-Runner">
-
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🛒 E-Commerce Website</h2>
+
+Responsive e-commerce website created to practice modern web development.
+
+<h3>Features</h3>
+
+- 🛍️ Product interface
+- 📱 Responsive design
+- 🎨 Modern UI
+- ⚡ JavaScript interactions
+- 🌐 Web development
+
+<h3>Tech Stack</h3>
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://github.com/jeevanhs821/ecommerce-site">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -261,99 +264,348 @@ Interactive browser-based space game.
 
 ---
 
-# 🌐 Personal Portfolio
+# 🌐 PORTFOLIO
 
-My personal portfolio showcases my skills, projects, learning journey and developer profile.
+<div align="center">
 
-### Technologies
+My portfolio showcases my skills, projects, learning journey and developer profile.
 
-`HTML` `CSS` `JavaScript`
-
-<p align="center">
+<br>
 
 <a href="https://github.com/jeevanhs821">
-
-<img src="https://img.shields.io/badge/Portfolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/PORTFOLIO-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📚 CURRENTLY LEARNING
+
+<div align="center">
+
+<table>
+<tr>
+<th>Area</th>
+<th>Learning</th>
+</tr>
+
+<tr>
+<td>🌐 Frontend</td>
+<td>React.js</td>
+</tr>
+
+<tr>
+<td>⚙️ Backend</td>
+<td>Node.js + Express.js</td>
+</tr>
+
+<tr>
+<td>🗄️ Database</td>
+<td>MongoDB</td>
+</tr>
+
+<tr>
+<td>🔐 Authentication</td>
+<td>JWT</td>
+</tr>
+
+<tr>
+<td>🌍 APIs</td>
+<td>REST API Development</td>
+</tr>
+
+<tr>
+<td>💻 Programming</td>
+<td>JavaScript + Python</td>
+</tr>
+
+<tr>
+<td>🧠 Problem Solving</td>
+<td>Data Structures & Algorithms</td>
+</tr>
+
+<tr>
+<td>🤖 AI</td>
+<td>Computer Vision</td>
+</tr>
+
+<tr>
+<td>🛠️ Tools</td>
+<td>Git + GitHub</td>
+</tr>
+
+<tr>
+<td>🚀 Deployment</td>
+<td>Full-Stack Deployment</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📊 GITHUB.STATS
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanhs821&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
----
-
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/jeevanhs821/jeevanhs821/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</p>
 
 ---
 
-# 📚 Currently Learning
+# 🐍 CONTRIBUTION.SNAKE
 
 <div align="center">
 
-| Area | Learning |
-|---|---|
-| 🌐 Frontend | React.js |
-| ⚙️ Backend | Node.js + Express.js |
-| 🗄️ Database | MongoDB |
-| 🔐 Authentication | JWT |
-| 🌍 APIs | REST APIs |
-| 🧠 DSA | Data Structures & Algorithms |
-| 🔧 Tools | Git & GitHub |
-| 🚀 Deployment | Full-Stack Deployment |
-| 🤖 AI | Computer Vision |
-| 🐍 Programming | Python |
+<img src="https://raw.githubusercontent.com/jeevanhs821/jeevanhs821/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🧠 Developer Journey
+# 📈 DEVELOPER.JOURNEY
 
-```text
-                         JEEVAN H S
-                              │
-                              ▼
-                       💻 Programming
-                              │
-                 ┌────────────┴────────────┐
-                 ▼                         ▼
-            JavaScript                   Python
-                 │                         │
-                 ▼                         ▼
-             React.js                AI / OpenCV
-                 │
-                 ▼
-          Node.js + Express
-                 │
-                 ▼
-              MongoDB
-                 │
-                 ▼
-             REST APIs
-                 │
-                 ▼
-          Authentication
-                 │
-                 ▼
-        Full-Stack Projects
-                 │
-                 ▼
-      Data Structures & Algorithms
-                 │
-                 ▼
-       Software Developer 🚀
+<div align="center">
+
+<pre>
+2023
+ │
+ ├── Started Programming
+ │
+ ▼
+2024
+ │
+ ├── HTML
+ ├── CSS
+ ├── JavaScript
+ └── Web Development
+ │
+ ▼
+2025
+ │
+ ├── React.js
+ ├── Python
+ ├── Git & GitHub
+ └── Projects
+ │
+ ▼
+2026
+ │
+ ├── Full-Stack Development
+ ├── Node.js
+ ├── Express.js
+ ├── MongoDB
+ ├── REST APIs
+ ├── AI / Computer Vision
+ └── Industry Projects
+ │
+ ▼
+2027
+ │
+ └── Software Developer 🚀
+</pre>
+
+</div>
+
+---
+
+# 🎯 MISSION
+
+<div align="center">
+
+<pre>
+[✓] Learn HTML
+[✓] Learn CSS
+[✓] Learn JavaScript
+[✓] Build Websites
+[✓] Learn React.js
+[✓] Learn Git & GitHub
+[~] Learn Node.js
+[~] Learn Express.js
+[~] Learn MongoDB
+[~] Master DSA
+[~] Build Production-Style Applications
+[~] Improve Problem Solving
+[ ] Contribute to Open Source
+[ ] Become a Job-Ready Software Developer
+</pre>
+
+</div>
+
+---
+
+# 💼 EXPERIENCE
+
+## 🌐 Web Developer Intern
+
+### Codec Technologies
+
+- 🌐 Web development experience
+- 🎨 Frontend development
+- 💻 Practical project development
+- 🔧 Professional development workflow
+- 🤝 Team-based learning
+
+---
+
+# 🎓 EDUCATION
+
+## Bachelor of Engineering
+
+### Information Science & Engineering
+
+📍 Karnataka, India
+
+---
+
+# 💡 WHAT I LIKE BUILDING
+
+<div align="center">
+
+`🌐 Web Applications`
+
+`⚛️ React Applications`
+
+`⚙️ Full-Stack Systems`
+
+`🏢 Management Systems`
+
+`🛒 E-Commerce`
+
+`🤖 AI Applications`
+
+`👁️ Computer Vision`
+
+`🎮 Interactive Projects`
+
+`🔐 Authentication Systems`
+
+`🌍 REST APIs`
+
+</div>
+
+---
+
+# 🔥 CURRENT FOCUS
+
+<div align="center">
+
+<pre>
+╭──────────────────────────────────────────────────────────╮
+│                    CURRENT FOCUS                         │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  ⚛️ React.js                                             │
+│  🟢 Node.js + Express.js                                 │
+│  🍃 MongoDB                                              │
+│  🔐 JWT Authentication                                   │
+│  🌐 REST APIs                                            │
+│  🧠 Data Structures & Algorithms                         │
+│  🤖 AI + Computer Vision                                 │
+│  🚀 Industry-Level Projects                             │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+</pre>
+
+</div>
+
+---
+
+# 🏆 GITHUB FOCUS
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanhs821&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+# 🤝 CONNECTIONS
+
+<div align="center">
+
+<a href="https://github.com/jeevanhs821">
+<img src="https://img.shields.io/badge/GitHub-@jeevanhs821-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/jeevan-h-s/">
+<img src="https://img.shields.io/badge/LinkedIn-Jeevan%20H%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="mailto:jeevanhs821@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-jeevanhs821%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📫 CONTACT
+
+<div align="center">
+
+### 💬 Let's Connect, Collaborate & Build Something Great!
+
+<br>
+
+📧 **Email**
+
+<a href="mailto:jeevanhs821@gmail.com">
+jeevanhs821@gmail.com
+</a>
+
+<br><br>
+
+💼 **LinkedIn**
+
+<a href="https://www.linkedin.com/in/jeevan-h-s/">
+linkedin.com/in/jeevan-h-s
+</a>
+
+<br><br>
+
+🐙 **GitHub**
+
+<a href="https://github.com/jeevanhs821">
+github.com/jeevanhs821
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<pre>
+╭──────────────────────────────────────────────╮
+│                                              │
+│       BUILDING • LEARNING • SHIPPING         │
+│                                              │
+│             ALL SYSTEMS NOMINAL              │
+│                                              │
+╰──────────────────────────────────────────────╯
+</pre>
+
+### 🚀 Build • Learn • Improve • Repeat
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=jeevanhs821&label=PROFILE%20VIEWS&style=for-the-badge"/>
+
+<br><br>
+
+⭐ **Thanks for visiting my GitHub profile!** ⭐
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+
+</div>

@@ -1,166 +1,163 @@
-# Hi 👋, I'm Jeevan H S
+<div align="center">
 
-## Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast 🚀
+# 👋 Hi, I'm Jeevan H S
 
-Hello! I'm Jeevan H S, a final-year Information Science and Engineering student passionate about full-stack development, software engineering, and building scalable web applications.
+### 💻 Software Developer | Full-Stack Developer | Problem Solver
 
-I work with technologies such as JavaScript, Python, React.js, Node.js, Express.js, and MongoDB, and I enjoy creating responsive websites and solving real-world problems through code.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Full-Stack+Developer;JavaScript+%7C+Python+Developer;React.js+%7C+Node.js+Developer;Building+Real-World+Applications;Always+Learning+%26+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 
-Currently, I am strengthening my skills in Data Structures & Algorithms, modern web technologies, and open-source development. I am always eager to learn, collaborate, and contribute to innovative projects.
+<br>
 
-🚀 Passionate about coding, continuous learning, and transforming ideas into impactful applications.
+<a href="https://github.com/jeevanhs821">
+  <img src="https://img.shields.io/github/followers/jeevanhs821?label=Followers&style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/jeevanhs821">
+  <img src="https://img.shields.io/github/stars/jeevanhs821?label=Stars&style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/jeevan-h-s/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
 
 ---
 
-## 🌍 About Me
+## 👨‍💻 About Me
 
-- 🌍 Based in Karnataka, India
-- 🎓 Final-year Information Science and Engineering student
-- ✉️ Contact me at **jeevanhs821@gmail.com**
-- 🧠 Currently learning Full-Stack Development and Data Structures & Algorithms
-- 👥 Open to collaborate on web development and open-source projects
-- 💬 Ask me about JavaScript, Python, React.js, and web development
-- ⚡ Fun fact: I enjoy turning ideas into real-world applications
+I'm **Jeevan H S**, a final-year **Information Science and Engineering student** from Karnataka, India, passionate about software development and building practical web applications.
+
+- 🎓 Final-year Information Science & Engineering student
+- 💻 Aspiring Software Developer
+- 🌐 Focused on Full-Stack Web Development
+- 🧠 Currently improving Data Structures & Algorithms
+- 🚀 Building real-world projects with modern web technologies
+- 🔧 Interested in software engineering, problem solving and open-source development
+- 🤝 Open to collaboration, internships and software development opportunities
+- 📫 Email: **jeevanhs821@gmail.com**
+
+> **"Build. Learn. Improve. Repeat." 🚀**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools
+### 🔧 Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Website
+### 🏢 Employee Management & HR System
 
-An online shopping platform built using HTML, CSS, and JavaScript with a responsive design and modern UI.
+> Industry-style full-stack project for managing employees, departments, attendance and leave requests.
 
-🔗 Repository: https://github.com/jeevanhs821/ecommerce-site
+**Planned / Working Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
+
+**Features**
+
+- 👥 Employee Management
+- 🏢 Department Management
+- 📅 Attendance Management
+- 📝 Leave Requests
+- 🔐 Authentication & Authorization
+- 📊 Admin Dashboard
+- 💾 Persistent Database Storage
+
+🔗 **Repository:** Coming Soon
 
 ---
 
-### 🌐 Portfolio Website
+### 🛒 E-Commerce Website
 
-A personal portfolio website showcasing my skills, projects, achievements, and technical journey.
+A responsive e-commerce website built to practice modern frontend development and user interface design.
 
-🔗 Repository: https://github.com/jeevanhs821/jeevanhs821
+**Tech:** `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:**  
+https://github.com/jeevanhs821/ecommerce-site
+
+---
+
+### 🤖 AirScript AI
+
+**Real-Time Air Writing Recognition System**
+
+An AI-based project that recognizes characters written in the air using a webcam and computer vision techniques.
+
+**Tech:** `Python` `OpenCV` `MediaPipe` `TensorFlow/Keras` `Flask`
+
+**Concepts**
+
+- ✋ Hand & fingertip tracking
+- 📷 Computer vision
+- 🧠 Character recognition
+- 🖥️ Touchless human-computer interaction
+
+🔗 **Project:** Coming Soon
 
 ---
 
 ### 🎮 Space Escape Runner
 
-A browser-based game developed using HTML, CSS, and JavaScript, featuring interactive gameplay and animations.
+A browser-based space adventure game with interactive gameplay and animations.
 
-🔗 Repository: https://github.com/jeevanhs821/Space-Escape-Runner
+**Tech:** `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:**  
+https://github.com/jeevanhs821/Space-Escape-Runner
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio showcasing my skills, projects and learning journey.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:**  
+https://github.com/jeevanhs821/jeevanhs821
 
 ---
 
 ## 📚 Currently Learning
 
-- JavaScript (ES6+)
-- Python
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Data Structures & Algorithms
-- Git & GitHub
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/jeevanhs821/jeevanhs821/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/jeevanhs821/jeevanhs821/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/jeevanhs821/jeevanhs821/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
-## 📊 Coding & Learning Profiles
-
-<p align="left">
-
-  <!-- GitHub -->
-  <a href="https://github.com/jeevanhs821">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jeevan-h-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <!-- CCBP Learning Progress -->
-  <a href="https://learning.ccbp.in/progress/public?uid=e5667e9c-d7da-4309-a7ad-662a20900a7c">
-    <img src="https://img.shields.io/badge/CCBP-Learning%20Progress-blue?style=for-the-badge" />
-  </a>
-
-</p>
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/jeevanhs821">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/jeevan-h-s/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://x.com/JeevanHS360820">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" width="48" />
-  </a>
-</p>
-
-- 🔗 GitHub: https://github.com/jeevanhs821
-- 🔗 LinkedIn: https://www.linkedin.com/in/jeevan-h-s/
-- 🔗 X (Twitter): https://x.com/JeevanHS360820
-- 🔗 Threads: https://www.threads.net/@jeevanhs821
-
----
-
-## 📊 Profile Views
-
-![](https://komarev.com/ghpvc/?username=jeevanhs821&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-### 🚀 "Turning ideas into impactful applications through code."
+```text
+JavaScript & ES6+
+        ↓
+React.js
+        ↓
+Node.js + Express.js
+        ↓
+MongoDB
+        ↓
+REST APIs
+        ↓
+Authentication & JWT
+        ↓
+Data Structures & Algorithms
+        ↓
+Full-Stack Development

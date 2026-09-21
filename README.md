@@ -20,6 +20,8 @@
 
 ## This is me :)
 
+<img src="./assets/profile.png" align="right" width="170" alt="Jeevan H S" />
+
 Hi, I'm **Jeevan**, a final-year Information Science and Engineering student from Karnataka, India 🇮🇳.
 I love turning ideas into real, working applications, and I'm always looking for the next problem to solve with code.
 
